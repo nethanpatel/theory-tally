@@ -1,0 +1,60 @@
+
+  .box-1 {
+    background-color:#000000;
+    color:whitesmoke;
+    background-color:#6b514a;
+    border: 4px black solid;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: normal;
+    line-height: 4px;
+    width: 25rem;
+    margin-top: 10px;
+    margin-right:auto;
+    margin-left:auto;
+    height:7.5rem;
+    border-radius: 15px;
+  }
+  
+  .box-3 {
+    display: flex;
+    flex-direction: column;
+    background-color:#6b514a;
+    color: black;
+    border: 4px rgb(0, 0, 0) solid;
+    line-height: 4px;
+    width: 25rem;
+    margin-top: 10px;
+    margin-right:auto;
+    margin-left:auto;
+    height:auto;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    
+  }
+
+  .btn-2 {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: White;
+    border: none;
+    margin: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 40px;
+    width: 20rem;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    border-radius: 15px;
+  }
+
+  .btn-2:hover {
+    text-decoration: underline;
+  }
+
